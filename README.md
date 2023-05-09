@@ -1,4 +1,4 @@
-###🚀 Welcome to MyPortfolio! 🚀
+### 🚀 Welcome to MyPortfolio! 🚀
 
 As a Full Stack Developer, I have designed this portfolio to showcase my 🔥 skills in JavaScript, Node.js, Express, Sequelize, PostgreSQL, React, and Bootstrap. My goal is to provide you with a comprehensive overview of my expertise and professional experience in developing dynamic web applications.
 
