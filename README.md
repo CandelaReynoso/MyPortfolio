@@ -14,6 +14,7 @@ If you have any questions or would like to discuss a project, feel free to conta
 
 📧 Email: mcreynoso.dev@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/candelareynoso/
+
 Thank you for visiting my portfolio! 🙏
 
 
